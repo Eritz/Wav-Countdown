@@ -1,5 +1,3 @@
-# wav_countdown
-
 This program begins a countdown starting at a specified time.
 
 
